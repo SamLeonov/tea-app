@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tea-app/static/css/main.88e42d18.chunk.css",
+    "main.css": "/tea-app/static/css/main.8f510cc8.chunk.css",
     "main.js": "/tea-app/static/js/main.562fdc80.chunk.js",
     "main.js.map": "/tea-app/static/js/main.562fdc80.chunk.js.map",
     "runtime-main.js": "/tea-app/static/js/runtime-main.eaa5921e.js",
@@ -8,14 +8,15 @@
     "static/js/2.4bbff6d1.chunk.js": "/tea-app/static/js/2.4bbff6d1.chunk.js",
     "static/js/2.4bbff6d1.chunk.js.map": "/tea-app/static/js/2.4bbff6d1.chunk.js.map",
     "index.html": "/tea-app/index.html",
-    "static/css/main.88e42d18.chunk.css.map": "/tea-app/static/css/main.88e42d18.chunk.css.map",
+    "static/css/main.8f510cc8.chunk.css.map": "/tea-app/static/css/main.8f510cc8.chunk.css.map",
     "static/js/2.4bbff6d1.chunk.js.LICENSE.txt": "/tea-app/static/js/2.4bbff6d1.chunk.js.LICENSE.txt",
+    "static/media/tea.css": "/tea-app/static/media/bamboo.7883590b.jpg",
     "static/media/white.42585e40.jpg": "/tea-app/static/media/white.42585e40.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.eaa5921e.js",
     "static/js/2.4bbff6d1.chunk.js",
-    "static/css/main.88e42d18.chunk.css",
+    "static/css/main.8f510cc8.chunk.css",
     "static/js/main.562fdc80.chunk.js"
   ]
 }
