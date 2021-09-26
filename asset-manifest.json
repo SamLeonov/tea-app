@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tea-app/static/css/main.121ece7f.chunk.css",
-    "main.js": "/tea-app/static/js/main.ac7305f6.chunk.js",
-    "main.js.map": "/tea-app/static/js/main.ac7305f6.chunk.js.map",
+    "main.js": "/tea-app/static/js/main.dd9e80f1.chunk.js",
+    "main.js.map": "/tea-app/static/js/main.dd9e80f1.chunk.js.map",
     "runtime-main.js": "/tea-app/static/js/runtime-main.eaa5921e.js",
     "runtime-main.js.map": "/tea-app/static/js/runtime-main.eaa5921e.js.map",
     "static/js/2.4bbff6d1.chunk.js": "/tea-app/static/js/2.4bbff6d1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eaa5921e.js",
     "static/js/2.4bbff6d1.chunk.js",
     "static/css/main.121ece7f.chunk.css",
-    "static/js/main.ac7305f6.chunk.js"
+    "static/js/main.dd9e80f1.chunk.js"
   ]
 }
