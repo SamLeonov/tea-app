@@ -5,7 +5,7 @@
     "node": "14.17.6",
     "npm": "7.24.1"
   },
-  "homepage": "https://samleonov.github.io/gongfu-guide/",
+  "homepage": "https://samleonov.github.io/tea-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
