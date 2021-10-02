@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/tea-app/static/css/main.2c1b748b.chunk.css",
-    "main.js": "/tea-app/static/js/main.2a998268.chunk.js",
-    "main.js.map": "/tea-app/static/js/main.2a998268.chunk.js.map",
+    "main.css": "/tea-app/static/css/main.0c8859c3.chunk.css",
+    "main.js": "/tea-app/static/js/main.f9553336.chunk.js",
+    "main.js.map": "/tea-app/static/js/main.f9553336.chunk.js.map",
     "runtime-main.js": "/tea-app/static/js/runtime-main.eaa5921e.js",
     "runtime-main.js.map": "/tea-app/static/js/runtime-main.eaa5921e.js.map",
-    "static/js/2.4bbff6d1.chunk.js": "/tea-app/static/js/2.4bbff6d1.chunk.js",
-    "static/js/2.4bbff6d1.chunk.js.map": "/tea-app/static/js/2.4bbff6d1.chunk.js.map",
+    "static/js/2.4009c87e.chunk.js": "/tea-app/static/js/2.4009c87e.chunk.js",
+    "static/js/2.4009c87e.chunk.js.map": "/tea-app/static/js/2.4009c87e.chunk.js.map",
     "index.html": "/tea-app/index.html",
-    "static/css/main.2c1b748b.chunk.css.map": "/tea-app/static/css/main.2c1b748b.chunk.css.map",
-    "static/js/2.4bbff6d1.chunk.js.LICENSE.txt": "/tea-app/static/js/2.4bbff6d1.chunk.js.LICENSE.txt",
-    "static/media/tea.css": "/tea-app/static/media/bamboo.dcce7d7d.jpg",
+    "static/css/main.0c8859c3.chunk.css.map": "/tea-app/static/css/main.0c8859c3.chunk.css.map",
+    "static/js/2.4009c87e.chunk.js.LICENSE.txt": "/tea-app/static/js/2.4009c87e.chunk.js.LICENSE.txt",
     "static/media/white.42585e40.jpg": "/tea-app/static/media/white.42585e40.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.eaa5921e.js",
-    "static/js/2.4bbff6d1.chunk.js",
-    "static/css/main.2c1b748b.chunk.css",
-    "static/js/main.2a998268.chunk.js"
+    "static/js/2.4009c87e.chunk.js",
+    "static/css/main.0c8859c3.chunk.css",
+    "static/js/main.f9553336.chunk.js"
   ]
 }
